@@ -1,5 +1,4 @@
 require './player.rb'
-require './process_score.rb'
 require './process_question.rb'
 
 class Game
